@@ -17,7 +17,7 @@ Dill
 tergantung device nya support Berapa Hz dill
 
 ## Recomened ❓️
-- Mobile legends 64bit ro Original Playstor
+- Mobile legends 64bit Original Playstor
 
 ## Sarat pengguna ❓️
 Orang itu harus sudah memahami modifikasi 
