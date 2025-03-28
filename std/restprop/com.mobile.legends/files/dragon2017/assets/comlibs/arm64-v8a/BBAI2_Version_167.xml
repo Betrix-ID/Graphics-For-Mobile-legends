@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<root>
+		<clientversion version="1.9.64.1060.1">
+			<type cpu="arm64-v8a" zipName="BBAISDK2_167">
+				<info md5="31B29A14500C5DAA8C38F7FBE6927ED3" length="2651908" libbytenn.bytes="1980BCA74740D7323049A170C5CC9AF2" libcpp_shared.bytes="9B58A5B1A2CCB455D01B1CBFBAD7970F" libtbb.bytes="C43CA51919E8531731A59A5F7827E0F5"/>
+			</type>
+			<type cpu="armeabi-v7a" zipName="BBAISDK2_167">
+				<info md5="F22B40EF6AAA0298B3333BBEE5ECA3D7" length="2237228" libbytenn.bytes="D7C8FFDDA87605584FDB5DD7A901E322" libcpp_shared.bytes="CD48A962630E9EEBFD7D710E8CD4AA1B" libtbb.bytes="55B2240831FF44C060C302770A89060C"/>
+			</type>
+		</clientversion>
+	</root>
