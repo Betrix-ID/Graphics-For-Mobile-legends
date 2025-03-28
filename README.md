@@ -12,6 +12,10 @@ Mengunlock grafis Mobile Legends ke Ultra+Ultra
 Untuk performce rasakan sendiri 
 Dill
 
+# ⚠️ Note :
+- Cuman buka pengaturan grafis nya doang masalah Fps nya
+tergantung device nya support Berapa Hz dill
+
 ## Recomened ❓️
 - Mobile legends 64bit ro Original Playstor
 
